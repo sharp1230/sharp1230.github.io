@@ -40,7 +40,7 @@ Numerical Methods for Partial Differential Equations, 2023.
 
 Mingchao Cai, **Huipeng Gu**, Jingzhi Li, and Mu Mo.
 
-Journal of Scientific Computing, 97, 48, 2023.
+Journal of Scientific Computing, vol. 97, no. 48, 2023.
 
 ## Header 4
 
