@@ -4,11 +4,37 @@ layout: default
 
 <!-- %Text can be **bold**, _italic_, or ~~strikethrough~~. 这是一段被注释掉的文字 -->
 
-Hello, I'm a PhD student in the Department of Mathematics at the Southern University of Science and Technology.
+Hello, I'm a PhD student in the Department of Mathematics at the Southern University of Science and Technology. If you have any questions,please feel free to contact me at email 12131226@mail.sustech.edu.cn.
 
-## Educations
+## Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### **Carnegie Mellon University** `2018.9 -`
+
+```
+Pittsburgh, PA
+```
+
+- Ph.D. in Software Engineering
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+
+### **Columbia University** `2016.9 - 2018.5`
+
+```
+New York, NY
+```
+
+- B.S. in Computer Science, _Magna Cum Laude_
+- Vision, Graphics track
+
+### **Dickinson College** `2013.9 - 2016.5`
+
+```
+Carlisle, PA
+```
+
+- B.S. in Computer Science, _Summa Cum Laude_
+- Computer Science Departmental Honors
+
 
 ## Header 2
 
