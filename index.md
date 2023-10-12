@@ -42,6 +42,6 @@ Mingchao Cai, **Huipeng Gu**, Jingzhi Li, and Mo Mu
 
 Journal of Scientific Computing, vol. 97, no. 48, 2023.
 
-#### Awards
+## Awards
 
 *   National Scholarship 2016-2017.
