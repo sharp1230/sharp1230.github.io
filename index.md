@@ -30,7 +30,7 @@ Hello, I'm a PhD student in the Department of Mathematics at the Southern Univer
 
 Mathematics of Computation, vol. 92, no. 341, pp. 1087–1108, 2023.
 
-#### 2.  G. A priori error estimates of two monolithic schemes for Biot’s consolidation model
+#### 2.  A priori error estimates of two monolithic schemes for Biot’s consolidation model
 
 **Huipeng Gu**, Mingchao Cai, Jingzhi Li, and Guoliang Ju
 
@@ -38,18 +38,10 @@ Numerical Methods for Partial Differential Equations, 2023.
 
 #### 3.   Some optimally convergent algorithms for decoupling the computation of Biot’s model
 
-Mingchao Cai, **Huipeng Gu**, Jingzhi Li, and Mu Mo.
+Mingchao Cai, **Huipeng Gu**, Jingzhi Li, and Mo Mu
 
 Journal of Scientific Computing, vol. 97, no. 48, 2023.
 
-## Header 4
+#### Awards
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-## Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+*   National Scholarship 2016-2017.
