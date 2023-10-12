@@ -4,7 +4,7 @@ layout: default
 
 <!-- %Text can be **bold**, _italic_, or ~~strikethrough~~. 这是一段被注释掉的文字 -->
 
-Hello, I'm a PhD student in the Department of Mathematics at the Southern University of Science and Technology. If you have any questions,please feel free to contact me at email 12131226@mail.sustech.edu.cn.
+Hello, I'm a PhD student in the Department of Mathematics at the Southern University of Science and Technology. If you have any questions,please feel free to contact me at email [12131226@mail.sustech.edu.cn](mailto:12131226@mail.sustech.edu.cn).
 
 ## Education
 
@@ -22,11 +22,19 @@ Hello, I'm a PhD student in the Department of Mathematics at the Southern Univer
 - B.S. in Computing Science
 - Top 100 Graduates in SCNU
 
-## Header 2
+## Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### 1.  An iterative decoupled algorithm with unconditional stability for biot model
+**Huipeng Gu**, Mingchao Cai, and Jingzhi Li
+Mathematics of Computation, vol. 92, no. 341, pp. 1087–1108, 2023.
+
+#### 2.  An iterative decoupled algorithm with unconditional stability for biot model
+**Huipeng Gu**, Mingchao Cai, and Jingzhi Li
+Mathematics of Computation, vol. 92, no. 341, pp. 1087–1108, 2023.
+
+#### 3.  An iterative decoupled algorithm with unconditional stability for biot model
+**Huipeng Gu**, Mingchao Cai, and Jingzhi Li
+Mathematics of Computation, vol. 92, no. 341, pp. 1087–1108, 2023.
 
 ## Header 4
 
