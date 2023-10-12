@@ -8,7 +8,7 @@ Hello, I'm a PhD student in the Department of Mathematics at the Southern Univer
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### `2021.09 - present` **Southern University of Science and Technology** 
 
 ```
 Pittsburgh, PA
@@ -17,7 +17,7 @@ Pittsburgh, PA
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### `2019.09 - 2021.06` **Southern University of Science and Technology** 
 
 ```
 New York, NY
@@ -26,7 +26,7 @@ New York, NY
 - B.S. in Computer Science, _Magna Cum Laude_
 - Vision, Graphics track
 
-### **Dickinson College** `2013.9 - 2016.5`
+### `2015.09 - 2019.06` **South China Normal University** 
 
 ```
 Carlisle, PA
