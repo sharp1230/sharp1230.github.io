@@ -10,31 +10,17 @@ Hello, I'm a PhD student in the Department of Mathematics at the Southern Univer
 
 #### `2021.09 - present` **Southern University of Science and Technology** 
 
-```
-Pittsburgh, PA
-```
-
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Ph.D. student in Computational Mathematics
+- Co-advised by [Jingzhi Li](https://faculty.sustech.edu.cn/lijz/) and [Mingchao Cai](https://sites.google.com/a/morgan.edu/mingchao-cai/home)
 
 #### `2019.09 - 2021.06` **Southern University of Science and Technology** 
 
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- M.S. in Computational Mathematics
 
 #### `2015.09 - 2019.06` **South China Normal University** 
 
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
+- B.S. in Computing Science
+- Top 100 Graduates in SCNU
 
 ## Header 2
 
