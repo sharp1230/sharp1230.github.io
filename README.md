@@ -1,4 +1,4 @@
-This is the theme I use to make [my resume](sharp1230.github.io): [sharp1230.github.io](sharp1230.github.io)
+This is the theme I use to make [my resume](http://sharp1230.github.io): [http://sharp1230.github.io](http://sharp1230.github.io)
 
 # The Minimal theme
 
