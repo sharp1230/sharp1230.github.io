@@ -4,7 +4,7 @@ layout: default
 
 <!-- %Text can be **bold**, _italic_, or ~~strikethrough~~. 这是一段被注释掉的文字 -->
 
-Hello, I'm a PhD student in the Department of Mathematics at the Southern University of Science and Technology. If you have any questions,please feel free to contact me at email [12131226@mail.sustech.edu.cn](mailto:12131226@mail.sustech.edu.cn).
+Hello, I'm a PhD student in the Department of Mathematics at the Southern University of Science and Technology. If you have any questions, please feel free to contact me at email [12131226@mail.sustech.edu.cn](mailto:12131226@mail.sustech.edu.cn).
 
 ## Education
 
