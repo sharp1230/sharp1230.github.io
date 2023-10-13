@@ -45,3 +45,17 @@ Journal of Scientific Computing, vol. 97, no. 48, 2023.
 ## Awards
 
 *   National Scholarship 2016-2017.
+
+## Experiments
+
+#### `2023.08` **Shenzhen MSU-BIT University** 
+
+- Speaker, The First MSU-BIT Workshop on Analysis and Computation
+
+#### `2022.07 - 2022.11` **National Supercomputing Center in Shenzhen** 
+
+- Internship, Department of High Performance Computing
+
+#### `2021.06 - 2021.08` **Chinese Academy of Sciences**
+
+- Visiting student, Academy of Mathematics and Systems Science
