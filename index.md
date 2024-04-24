@@ -44,9 +44,9 @@ Journal of Scientific Computing, vol. 97, no. 48, 2023.
 
 ## Awards
 
-*   National Scholarship 2017
+*   Natural NSF of China No. 123B2016 (Basic Research Programme for Young Students (PhD) Postgraduate students, 2024.05-2026-12)
 *   National Scholarship 2023
-*   Natural NSF of China No. 123B2016
+*   National Scholarship 2017
 
 ## Experiments
 
