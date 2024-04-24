@@ -44,7 +44,9 @@ Journal of Scientific Computing, vol. 97, no. 48, 2023.
 
 ## Awards
 
-*   National Scholarship 2016-2017.
+*   National Scholarship 2017
+*   National Scholarship 2023
+*   Natural NSF of China No. 123B2016
 
 ## Experiments
 
