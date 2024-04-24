@@ -8,16 +8,16 @@ Hello, I'm a PhD student in the Department of Mathematics at the Southern Univer
 
 ## Education
 
-#### `2021.09 - present` **Southern University of Science and Technology** 
+#### `2021.09 - present` **Southern University of Science and Technology, Shenzhen, China** 
 
 - Ph.D. student in Computational Mathematics
 - Co-advised by [Jingzhi Li](https://faculty.sustech.edu.cn/lijz/) and [Mingchao Cai](https://sites.google.com/a/morgan.edu/mingchao-cai/home)
 
-#### `2019.09 - 2021.06` **Southern University of Science and Technology** 
+#### `2019.09 - 2021.06` **Southern University of Science and Technology, Shenzhen, China** 
 
 - M.S. in Computational Mathematics
 
-#### `2015.09 - 2019.06` **South China Normal University** 
+#### `2015.09 - 2019.06` **South China Normal University, Guangzhou, China** 
 
 - B.S. in Information and Computing Science
 - Top 100 Graduates in SCNU
