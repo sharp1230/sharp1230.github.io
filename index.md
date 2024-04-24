@@ -19,7 +19,7 @@ Hello, I'm a PhD student in the Department of Mathematics at the Southern Univer
 
 #### `2015.09 - 2019.06` **South China Normal University** 
 
-- B.S. in Computing Science
+- B.S. in Information and Computing Science
 - Top 100 Graduates in SCNU
 
 ## Publications
